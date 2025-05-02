@@ -41,7 +41,8 @@ const Hero = () => {
                         onClick={submitHandler}
                         className="inline-flex px-6 py-3 text-lg font-bold text-white transition-all duration-200 bg-pink-500 rounded-lg focus:outline-none focus:bg-gray-600 font-pj hover:bg-gray-600"
                       >
-                        Join Us Now
+                        Join Us Now 
+                        {/* Need to update zegocloud change to work proper */}
                       </button>
                     </div>
                   </div>
